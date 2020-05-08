@@ -7,12 +7,12 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/mob-sakai/SoftMaskForUGUI.git"
+		"url": "git+https://github.com/stalker1hunt/SoftMaskForUGUI.git"
 	},
 	"author": {
-		"name": "mob-sakai",
-		"email": "sakai861104@gmail.com",
-		"url": "https://github.com/mob-sakai"
+		"name": "",
+		"email": "",
+		"url": ""
 	},
 	"dependencies": {},
 	"keywords": [
